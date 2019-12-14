@@ -137,6 +137,7 @@ class ComposerStaticInitccfc578d9c9344f6db6ba2f0ee2204f3
             'GuzzleHttp\\Promise\\' => 19,
             'GuzzleHttp\\' => 11,
             'GatewayWorker\\' => 14,
+            'GatewayClient\\' => 14,
         ),
         'F' => 
         array (
@@ -291,6 +292,10 @@ class ComposerStaticInitccfc578d9c9344f6db6ba2f0ee2204f3
         'GatewayWorker\\' => 
         array (
             0 => __DIR__ . '/..' . '/workerman/gateway-worker/src',
+        ),
+        'GatewayClient\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/workerman/gatewayclient',
         ),
         'Faker\\' => 
         array (
