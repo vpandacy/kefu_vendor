@@ -93,6 +93,10 @@ class ComposerStaticInitccfc578d9c9344f6db6ba2f0ee2204f3
         array (
             'phpDocumentor\\Reflection\\' => 25,
         ),
+        'i' => 
+        array (
+            'ipip\\db\\' => 8,
+        ),
         'c' => 
         array (
             'cebe\\markdown\\' => 14,
@@ -196,6 +200,10 @@ class ComposerStaticInitccfc578d9c9344f6db6ba2f0ee2204f3
             0 => __DIR__ . '/..' . '/phpdocumentor/reflection-common/src',
             1 => __DIR__ . '/..' . '/phpdocumentor/reflection-docblock/src',
             2 => __DIR__ . '/..' . '/phpdocumentor/type-resolver/src',
+        ),
+        'ipip\\db\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/ipip/db/src/ipip/db',
         ),
         'cebe\\markdown\\' => 
         array (
