@@ -95,6 +95,7 @@ class ComposerStaticInitccfc578d9c9344f6db6ba2f0ee2204f3
         ),
         'i' => 
         array (
+            'itbdw\\Ip\\' => 9,
             'ipip\\db\\' => 8,
         ),
         'c' => 
@@ -200,6 +201,10 @@ class ComposerStaticInitccfc578d9c9344f6db6ba2f0ee2204f3
             0 => __DIR__ . '/..' . '/phpdocumentor/reflection-common/src',
             1 => __DIR__ . '/..' . '/phpdocumentor/reflection-docblock/src',
             2 => __DIR__ . '/..' . '/phpdocumentor/type-resolver/src',
+        ),
+        'itbdw\\Ip\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/itbdw/ip-database/src',
         ),
         'ipip\\db\\' => 
         array (

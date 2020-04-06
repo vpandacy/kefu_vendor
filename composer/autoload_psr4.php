@@ -14,6 +14,7 @@ return array(
     'yii\\bootstrap\\' => array($vendorDir . '/yiisoft/yii2-bootstrap/src'),
     'yii\\' => array($vendorDir . '/yiisoft/yii2'),
     'phpDocumentor\\Reflection\\' => array($vendorDir . '/phpdocumentor/reflection-common/src', $vendorDir . '/phpdocumentor/reflection-docblock/src', $vendorDir . '/phpdocumentor/type-resolver/src'),
+    'itbdw\\Ip\\' => array($vendorDir . '/itbdw/ip-database/src'),
     'ipip\\db\\' => array($vendorDir . '/ipip/db/src/ipip/db'),
     'cebe\\markdown\\' => array($vendorDir . '/cebe/markdown'),
     'Workerman\\' => array($vendorDir . '/workerman/workerman'),
